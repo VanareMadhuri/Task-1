@@ -1,0 +1,28 @@
+#clear
+{
+    width: 130px;
+}
+
+.formstyle
+{
+    width: 130px;
+    height: 261;
+    margin: auto;
+    border: 2px solid gray;
+    padding: 16px;
+    background-color: blueviolet;
+    border-radius: 10px;
+}
+
+input
+{
+    box-shadow: 2px 2px 2px inset aliceblue;
+    width: 40px;
+    background-color: #9b8ea7;
+    color: aliceblue;
+    padding: 5px;
+}
+#ansstyle
+{
+    width: 122px;
+}
